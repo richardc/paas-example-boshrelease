@@ -1,0 +1,15 @@
+releases:
+  - name: bosh-example
+    version: <RELEASE VERSION>
+
+addons:
+  - name: bosh-example
+    jobs:
+    - name: login_banner
+      release: bosh-example
+    properties:
+      login_banner:
+        text: |
+          Multi
+          line
+          example
