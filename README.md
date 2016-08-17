@@ -5,4 +5,3 @@ Few OS customizations as a BOSH release:
 
 See `manifests/` for examples.
 
-An empty line
