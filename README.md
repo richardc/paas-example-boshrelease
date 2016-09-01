@@ -1,3 +1,5 @@
+Dummy of dummy
+
 Few OS customizations as a BOSH release:
 
 - customize login banner text (`login_banner`)
